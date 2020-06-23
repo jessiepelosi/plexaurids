@@ -148,18 +148,3 @@ Basic Usage:
 <tt> vcftools --vcf [input.vcf] --max-missing [0-1, 1= no missing data allowed] --thin [integer, only keep SNPs xbp apart] --recode [writes new .vcf] </tt> 
 
 <b> Citation: </b> Danecek, P., A. Auton, G. Abecasis, C.A. Albers, E. Banks, M.A DePristo, R. Handsaker, G. Lunter, G. Marth, S.T. Sherry, G. McVean, R. Durbin, and 1000 Genomes Project Analysis Group. 2011. The variant call format and VCFTools. <i> Bioinformatics </i> <b> 27(15): </b> 2156-2158. 
-
-## 7. Analysis in R 
-
-Use the R script XXX.R to further analyze SNPs generated in 1-6.
-
-## 8. Functional Annotation 
-
-## 9. Admixture Analysis 
-
-
-
-
-
-
-
