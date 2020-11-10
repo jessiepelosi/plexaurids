@@ -3,7 +3,13 @@ Code for Pelosi et al. "Fine-scale genomic, morphological and reproductive diffe
 
 <b> Data </b> 
 
-This directory contains the assembled transcriptomes, annotation files, and XXX. 
+This directory contains the assembled transcriptomes, annotation files, and alignments. 
+
+All sequence data has been deposited in NCBI. 
+
+Cleaned transcriptome reads are available under BioProject PRJNA675782. 
+
+Single loci sequenced via Sanger Dideoxy are available under accessions XXXX.  
 
 <b> Analysis </b> 
 
