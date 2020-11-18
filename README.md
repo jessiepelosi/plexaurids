@@ -9,7 +9,7 @@ All sequence data has been deposited in NCBI.
 
 Cleaned transcriptome reads are available under BioProject PRJNA675782. 
 
-Single loci sequenced via Sanger Dideoxy are available under accessions XXXX.  
+Single loci sequenced via Sanger Dideoxy are available under accession numbers MW239684-MW239875.  
 
 <b> Analysis </b> 
 
