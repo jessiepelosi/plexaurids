@@ -13,4 +13,4 @@ Single loci sequenced via Sanger Dideoxy are available under accession numbers M
 
 <b> Analysis </b> 
 
-This directory contains markdown files describing each of the analyses. 
+This directory contains R and markdown files describing each of the analyses. 
