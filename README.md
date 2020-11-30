@@ -1,5 +1,5 @@
 # Plexaurid Systematics 
-Code for Pelosi et al. "Fine-scale genomic, morphological and reproductive differences delimit the Caribbean octocorals <i> Plexuara homomalla </i> and <i> P. kükenthali" </i> 
+Code for Pelosi, J.A., M.A. Bernal, T.J. Krabbenhoft, S. Galbo, C. Prada, M.A. Coffroth, and H.R. Lasker. <i> Submitted. </i> "Fine-scale genomic, morphological, reproductive, and symbiont differences delimit the Caribbean octocorals <i> Plexuara homomalla </i> and <i> P. kükenthali" </i> 
 
 <b> Data </b> 
 
