@@ -1,6 +1,6 @@
 ## Bioinformatic Pipeline for SNP Calling
 
-Pipeline used to call Single Nucleotide Polymorphisms (SNPs) from <i> Plexaura homomalla </i> and <i> P. kukenthali </i> transcriptomes. Raw reads can be found here: [URL], cleaned reads can be found here: [URL], and <i> de novo </i> assemblies can be found here: [URL].
+Pipeline used to call Single Nucleotide Polymorphisms (SNPs) from <i> Plexaura homomalla </i> and <i> P. kukenthali </i> transcriptomes. Cleaned reads can be found in SRA under BioProject PRJNA675782, <i> de novo </i> assemblies can be found in this repository under "Data".
 
 
 
