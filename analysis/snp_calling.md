@@ -5,7 +5,7 @@ Pipeline used to call Single Nucleotide Polymorphisms (SNPs) from <i> Plexaura h
 
 
 ## 1. Download and assess <i> de novo </i> reference transcriptomes
- Use Basic Universal Single Orthologs (BUSCO) to assess the completeness of each transcriptome. 
+ Use Benchmarking Universal Single-Copy Orthologs (BUSCO) to assess the completeness of each transcriptome. 
 
 <tt> run_busco.py -i HF4_Trinity.assembly.fa -o HF4_Trinity_BUSCO -l eukaryota_odb9 -m tran </tt>
 
