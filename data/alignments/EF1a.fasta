@@ -1,4 +1,4 @@
->16-0R29 [organism=Plexaura homomalla] [isolate=16-0R29] elongation factor 1 alpha gene, intron 
+>16-0R29 MW239703 [organism=Plexaura homomalla] [isolate=16-0R29] elongation factor 1 alpha gene, intron 
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -13,7 +13,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->16-0R16 [organism=Plexaura kukenthali] [isolate=16-0R16] elongation factor 1 alpha gene, intron
+>16-0R16 MW239704 [organism=Plexaura kukenthali] [isolate=16-0R16] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggggataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -28,7 +28,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaa--ggaaacaatcgcaaaattctgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->16-0R14 [organism=Plexaura kukenthali] [isolate=16-0R14] elongation factor 1 alpha gene, intron
+>16-0R14 MW239705 [organism=Plexaura kukenthali] [isolate=16-0R14] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -43,7 +43,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattctgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->FL15-999 [organism=Plexaura homomalla] [isolate=FL15-999] elongation factor 1 alpha gene, intron
+>FL15-999 MW239706 [organism=Plexaura homomalla] [isolate=FL15-999] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -58,7 +58,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgc-aaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->16-0R12 [organism=Plexaura kukenthali] [isolate=16-0R12] elongation factor 1 alpha gene, intron
+>16-0R12 MW239707 [organism=Plexaura kukenthali] [isolate=16-0R12] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -73,7 +73,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->16-0R13 [organism=Plexaura kukenthali] [isolate=16-0R13] elongation factor 1 alpha gene, intron 
+>16-0R13 MW239708 [organism=Plexaura kukenthali] [isolate=16-0R13] elongation factor 1 alpha gene, intron 
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -88,7 +88,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->FL15-1001 [organism=Plexaura homomalla] [isolate=FL15-1001] elongation factor 1 alpha gene, intron
+>FL15-1001 MW239709 [organism=Plexaura homomalla] [isolate=FL15-1001] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -103,7 +103,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->FL15-1002 [organism=Plexaura homomalla] [isolate=FL15-1002] elongation factor 1 alpha gene, intron
+>FL15-1002 MW239710 [organism=Plexaura homomalla] [isolate=FL15-1002] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -118,7 +118,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaggttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaa-ggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->16-0R21 [organism=Plexaura homomalla] [isolate=16-0R21] elongation factor 1 alpha gene, intron
+>16-0R21 MW239711 [organism=Plexaura homomalla] [isolate=16-0R21] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -133,7 +133,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaa-ggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->16-0R25 [organism=Plexaura homomalla] [isolate=16-0R25] elongation factor 1 alpha gene, intron
+>16-0R25 MW239712 [organism=Plexaura homomalla] [isolate=16-0R25] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -148,7 +148,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->16-0R24 [organism=Plexaura homomalla] [isolate=16-0R24] elongation factor 1 alpha gene, intron
+>16-0R24 MW239713 [organism=Plexaura homomalla] [isolate=16-0R24] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -163,7 +163,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->16-0R30 [organism=Plexaura homomalla] [isolate=16-0R30] elongation factor 1 alpha gene, intron
+>16-0R30 MW239714 [organism=Plexaura homomalla] [isolate=16-0R30] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -178,7 +178,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgca-tgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaa-ggaaaacaatcgcaaaattccgcgcgcttg
 -taagttgctctgaatggaaatccgcc
->16-0R26 [organism=Plexaura homomalla] [isolate=16-0R26] elongation factor 1 alpha gene, intron
+>16-0R26 MW239715 [organism=Plexaura homomalla] [isolate=16-0R26] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -193,7 +193,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->FL15-1003 [organism=Plexaura homomalla] [isolate=FL15-1003] elongation factor 1 alpha gene, intron
+>FL15-1003 MW239716 [organism=Plexaura homomalla] [isolate=FL15-1003] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -208,7 +208,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaggttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 -taagttgctctgaatggaaatccgcc
->17-0002 [organism=Plexaura kukenthali] [isolate=17-0002] elongation factor 1 alpha gene, intron
+>17-0002 MW239717 [organism=Plexaura kukenthali] [isolate=17-0002] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -223,7 +223,7 @@ catatgattggttatgcaaccagttttgaacttcacaac-aagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgca-tgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaa-ggaaaacaatcgc-aaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->17-0005 [organism=Plexaura kukenthali] [isolate=17-0005] elongation factor 1 alpha gene, intron
+>17-0005 MW239718 [organism=Plexaura kukenthali] [isolate=17-0005] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -238,7 +238,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->16-0R15 [organism=Plexaura kukenthali] [isolate=16-0R15] elongation factor 1 alpha gene, intron
+>16-0R15 MW239719 [organism=Plexaura kukenthali] [isolate=16-0R15] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggggataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -253,7 +253,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgca-tgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaa--ggaaacaatcgcaaaattccgcgcgcttg
 -taagttgctctgaatggaatcc-gcc
->16-0R17 [organism=Plexaura kukenthali] [isolate=16-0R17] elongation factor 1 alpha gene, intron
+>16-0R17 MW239720 [organism=Plexaura kukenthali] [isolate=16-0R17] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggggataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -268,7 +268,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaa-ggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->17-0003 [organism=Plexaura kukenthali] [isolate=17-0003] elongation factor 1 alpha gene, intron
+>17-0003 MW239721 [organism=Plexaura kukenthali] [isolate=17-0003] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -283,7 +283,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgcactgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaa-ggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->17-0004 [organism=Plexaura kukenthali] [isolate=17-0004] elongation factor 1 alpha gene, intron
+>17-0004 MW239722 [organism=Plexaura kukenthali] [isolate=17-0004] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -298,7 +298,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcccg
 attttcattcagtgcaagttaccgagcgctgcattgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaaacaatcgcaaaattccgcgcgcttg
 ttaagttgctctgaatggaaatccgcc
->FL15-997 [organism=Plexaura homomalla] [isolate=FL15-997] elongation factor 1 alpha gene, intron
+>FL15-997 MW239723 [organism=Plexaura homomalla] [isolate=FL15-997] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
@@ -313,7 +313,7 @@ catatgattggttatgcaaccagttttgaacttcacaacaaagttggagactaaagcctg
 attttcattcagtgcaagttaccgagcgctgca-tgtgttgtctagtagaacaaatttca
 taagatatgggtggctgaacacatttcaaaggaaa-caatcgc-aaattccgcgcgcttg
 -taagttgctctgaatggaa-tccgcC
->16-0R28 [organism=Plexaura homomalla] [isolate=16-0R28] elongation factor 1 alpha gene, intron
+>16-0R28 MW239724 [organism=Plexaura homomalla] [isolate=16-0R28] elongation factor 1 alpha gene, intron
 gaagctctgactgaagcattacctggagataatgttggtttcaacgtgaaaaatgtttct
 gtgaaagacatcaagagaggttatgttgcaggcgacagcaagaacgacgctccaaaaggg
 acgaaaaatttcaccgctcaggtatgtacgctggtcattttaagggctccttcgtaaagt
