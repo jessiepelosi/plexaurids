@@ -15,6 +15,11 @@ SNP phylogenies were constructed as above. The high-Fst data had no constant sit
 iqtree2 -s high_fst_snps.fasta --seqtype DNA --alrt 1000 -B 1000 -m MFP+ASC 
 ```
 
+Bayesian method implemented in MrBayes v3.2.6 (Ronquist et al. 2012) interactively with default parameters. Briefly: 
+```
+mb;exeute conat.nexus;sump;sumt
+```
+
 <b> References: </b> 
 
 IQTREE2: 
@@ -24,6 +29,10 @@ Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf, Michael D. W
 ModelFinder: 
 
 Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler, and Lars S Jermiin (2017) ModelFinder: Fast model selection for accurate phylogenetic estimates. Nature Methods, 14:587â€“589. https://doi.org/10.1038/nmeth.4285
+
+MrBayes:
+
+Ronquist, F., M. Teslenko, P. van der Mark, D.L. Ayres, A. Darling, S. Höhna, B. Larget, L. Liu, M.A. Suchard, and J.P. Huelsenbeck. 2012. MRBAYES 3.2: Efficient Bayesian phylogenetic inference and model selection across a large model space. Syst. Biol. 61:539-542.
 
 Ultra-Fast Bootstraps:  
 
